@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://kazishiblizamanrahil.dev/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/Rahil_1st.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/Rahil_2nd.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-4.webp</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-5.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/gallery-7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/MUN-Certificate.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/campus.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kazishiblizamanrahil.dev/images/og-image.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kazishiblizamanrahil.dev/Kazi-Shibli-Zaman-Rahil_CV.pdf</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://kazishiblizamanrahil.dev/Kazi-Shibli-Zaman-Rahil_Resume.pdf</loc>
     <lastmod>2026-11-15</lastmod>
   </url>
 </urlset>
